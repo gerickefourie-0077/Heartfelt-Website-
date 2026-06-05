@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "es6"],
+    "module": "CommonJS",
+    "target": "ES2017",
+    "jsx": "react",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "outDir": "./build"
+  },
+  "include": ["src"]
+}

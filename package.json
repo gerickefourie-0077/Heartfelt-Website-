@@ -1,0 +1,43 @@
+{
+  "name": "heartfelt-website-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render",
+    "upgrade": "remotion upgrade"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:35477/git/gerickefourie-0077/Heartfelt-Website-"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/animation-utils": "^4.0.472",
+    "@remotion/cli": "^4.0.472",
+    "@remotion/cloudrun": "^4.0.472",
+    "@remotion/fonts": "^4.0.472",
+    "@remotion/gif": "^4.0.472",
+    "@remotion/lambda": "^4.0.472",
+    "@remotion/lottie": "^4.0.472",
+    "@remotion/media-utils": "^4.0.472",
+    "@remotion/motion-blur": "^4.0.472",
+    "@remotion/noise": "^4.0.472",
+    "@remotion/openai-whisper": "^4.0.472",
+    "@remotion/paths": "^4.0.472",
+    "@remotion/player": "^4.0.472",
+    "@remotion/preload": "^4.0.472",
+    "@remotion/renderer": "^4.0.472",
+    "@remotion/shapes": "^4.0.472",
+    "@remotion/skia": "^4.0.472",
+    "@remotion/three": "^4.0.472",
+    "@remotion/transitions": "^4.0.472",
+    "@remotion/zod-types": "^4.0.472",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "remotion": "^4.0.472"
+  }
+}
