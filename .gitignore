@@ -1,0 +1,8 @@
+node_modules/
+build/
+out/
+.env
+.env.local
+*.mp4
+*.mov
+*.webm
