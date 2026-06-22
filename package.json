@@ -36,6 +36,7 @@
     "@remotion/three": "^4.0.472",
     "@remotion/transitions": "^4.0.472",
     "@remotion/zod-types": "^4.0.472",
+    "impeccable": "github:pbakaus/impeccable",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "remotion": "^4.0.472"
